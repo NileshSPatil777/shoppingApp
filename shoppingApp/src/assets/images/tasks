@@ -1,0 +1,5 @@
+1)Implemented Actions of LATAM Library - Delete, Reject, Approve, Send for Reapir, Show actions and perform actions
+2)Implemented Actions of  Infopool library - Delete, Reject, Approve, Send for Reapir, Show actions and perform actions
+3)API Integration LATAM Library - tabCount, create submit, modify submit, branch code lookup , apply filter
+4) Implemented Create Action scenarion for InfoPool Library
+5) Analysis of the bugs and assign back to Backaend/CQE
